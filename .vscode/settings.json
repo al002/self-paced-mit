@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "~/Library/Caches/pypoetry/virtualenvs/6.0001-py3.8/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
